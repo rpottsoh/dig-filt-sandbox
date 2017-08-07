@@ -6,6 +6,8 @@ This repo may be used as a place to display thoughts / ideas regarding digital f
 
 My examples are written in Pascal.  This should not deter you from sharing your ideas in whatever language you like.  This should be considered a language agnostic place to explore this topic.
 
-
+I have provided two examples to start the conversation:  
+- **[Butterworth Filter](https://en.wikipedia.org/wiki/Butterworth_filter)**  
+- **[Median Spike Filter](https://www.mathworks.com/help/signal/ug/remove-spikes-from-a-signal.html?requestedDomain=www.mathworks.com)** *wikipedia didn't have anything on the topic*
 
 Ryan 
