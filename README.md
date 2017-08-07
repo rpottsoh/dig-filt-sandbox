@@ -10,4 +10,7 @@ I have provided two examples to start the conversation:
 - **[Butterworth Filter](https://en.wikipedia.org/wiki/Butterworth_filter)**  
 - **[Median Spike Filter](https://www.mathworks.com/help/signal/ug/remove-spikes-from-a-signal.html?requestedDomain=www.mathworks.com)** *wikipedia didn't have anything on the topic*
 
+Raw vs. Filtered Data:
+![ExamplePlot](img/ExamplePlot.png)
+
 Ryan 
